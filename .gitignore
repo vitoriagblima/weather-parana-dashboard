@@ -1,5 +1,0 @@
-# .gitignore
-.env
-output/
-venv/
-__pycache__/
